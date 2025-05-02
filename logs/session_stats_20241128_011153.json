@@ -1,0 +1,9 @@
+{
+    "total_sleep_incidents": 0,
+    "total_drowsy_incidents": 0,
+    "total_yawns": 0,
+    "total_blinks": 0,
+    "session_start": "2024-11-28 01:11:52",
+    "alert_times": [],
+    "yawn_stages": []
+}

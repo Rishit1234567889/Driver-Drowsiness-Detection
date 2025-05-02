@@ -1,0 +1,16 @@
+{
+    "total_sleep_incidents": 0,
+    "total_drowsy_incidents": 0,
+    "total_yawns": 1,
+    "total_blinks": 0,
+    "session_start": "2025-02-06 15:46:44",
+    "alert_times": [
+        "2025-02-06 15:46:49",
+        "2025-02-06 15:46:57",
+        "2025-02-06 15:47:02",
+        "2025-02-06 15:47:05"
+    ],
+    "yawn_stages": [
+        "Mild Yawn"
+    ]
+}
